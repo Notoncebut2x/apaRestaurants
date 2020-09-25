@@ -1,0 +1,2155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Adam's Rib",
+        "CUISINE": "International",
+        "ADDRESS": "21st & Pennsylvania Ave. NW",
+        "ADDRESS_Clean": "21st & Pennsylvania Ave. NW",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "matchbook cover; menu",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0466578,
+          38.9013274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2019",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Anju",
+        "CUISINE": "Korean",
+        "ADDRESS": "1805 18th St NW, Washington, DC 20009",
+        "ADDRESS_Clean": "1805 18th St NW, Washington, DC 20009",
+        "": "",
+        "OWNER BIO": "Yesoon Lee/Danny Lee",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0414505,
+          38.9143826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1972",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Apana",
+        "CUISINE": "Indian (Punjab)",
+        "ADDRESS": "3066 M Street Northwest",
+        "ADDRESS_Clean": "3066 M Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Amarjeet \"Umbi\" Singh/friend",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.060865,
+          38.9049669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Aster",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1401 H Street Northwest",
+        "ADDRESS_Clean": "1401 H Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032439,
+          38.9005852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Black Tahiti",
+        "CUISINE": "Tiki",
+        "ADDRESS": "1776 K Street NW",
+        "ADDRESS_Clean": "1776 K Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0413265,
+          38.9021229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1980",
+        "OPEN (YEAR)": "1988",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Bombay Club",
+        "CUISINE": "Indian",
+        "ADDRESS": "815 Connecticut Avenue Northwest",
+        "ADDRESS_Clean": "815 Connecticut Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Ashok Bajaj",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0379279,
+          38.901057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1950",
+        "OPEN (YEAR)": "1953",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Casino Royal",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1401 H Street Northwest",
+        "ADDRESS_Clean": "1401 H Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Leon Zeiger (1918-2002)",
+        "TEXT": "",
+        "IMAGE": "Menu/",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032439,
+          38.9005852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1940",
+        "OPEN (YEAR)": "1941",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Cathay Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "624 H Street Northwest",
+        "ADDRESS_Clean": "624 H Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Lee Jung Won (1894-1967)",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0212665,
+          38.8995147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2000",
+        "OPEN (YEAR)": "2005",
+        "CLOSE (YEAR)": "2008",
+        "RESTAURANT": "Chez Mama-san",
+        "CUISINE": "Japanese",
+        "ADDRESS": "1039 33rd Street NW Washington, DC 20050",
+        "ADDRESS_Clean": "1039 33rd Street NW Washington, DC 20050",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0658791,
+          38.9047071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2019",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "ChiKo (Dupont)",
+        "CUISINE": "Chinese/Korean",
+        "ADDRESS": "2029 P St NW, Washington, DC 20036",
+        "ADDRESS_Clean": "2029 P St NW, Washington, DC 20036",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0462212,
+          38.9098496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2017",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "ChiKo (Eastern Market)",
+        "CUISINE": "Chinese Korean",
+        "ADDRESS": "423 8th St SE, Washington, DC 20004",
+        "ADDRESS_Clean": "423 8th St SE, Washington, DC 20004",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9951547,
+          38.8830311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Chin's Palace",
+        "CUISINE": "Chinese",
+        "ADDRESS": "5205 Marlboro Pike, SE",
+        "ADDRESS_Clean": "5205 Marlboro Pike, SE, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9186149,
+          38.8688884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1930",
+        "OPEN (YEAR)": "1930",
+        "CLOSE (YEAR)": "late 1930s",
+        "RESTAURANT": "China Doll",
+        "CUISINE": "Chinese",
+        "ADDRESS": "627 H Street Northwest",
+        "ADDRESS_Clean": "627 H Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Jimmy Dere/since 1969-Davis Lee&Tom-Lin Lee",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0212272,
+          38.9000778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1980",
+        "OPEN (YEAR)": "1988",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "China Doll Gourmet",
+        "CUISINE": "Pan-Asian",
+        "ADDRESS": "627 H Street Northwest",
+        "ADDRESS_Clean": "627 H Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Toon Lee",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0212272,
+          38.9000778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1969",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "China Dragon Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "7527 Landover road, Landover, MD",
+        "ADDRESS_Clean": "7527 Landover road, Landover, MD",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8857203,
+          38.9261496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1930",
+        "OPEN (YEAR)": "1937",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "China Inn",
+        "CUISINE": "Chinese",
+        "ADDRESS": "631 H Street Northwest",
+        "ADDRESS_Clean": "631 H Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Sing Sha Moy (1888-1944)/ Irene Moy Yee (1923-1978)/William Donald Yee (1920-1998)",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0205122,
+          38.8999471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1980",
+        "OPEN (YEAR)": "1987",
+        "CLOSE (YEAR)": "operating",
+        "RESTAURANT": "City Lights of China",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1731 Connecticut Ave NW #1, Washington, DC 20009",
+        "ADDRESS_Clean": "1731 Connecticut Ave NW #1, Washington, DC 20009",
+        "": "",
+        "OWNER BIO": "Formerly Larry La",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0452812,
+          38.9135689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1971",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Court of the Mandarins",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1824 M Street Northwest",
+        "ADDRESS_Clean": "1824 M Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Aline Fugh Berman (1927-2003)",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0425979,
+          38.9052884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Ding How",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1419 Irving Street Northwest",
+        "ADDRESS_Clean": "1419 Irving Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0332234,
+          38.9287582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1990",
+        "OPEN (YEAR)": "1991",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Duangrat's Thai restaurant",
+        "CUISINE": "Thai",
+        "ADDRESS": "5878 Leesburg Pike, Bailey's Crossroads, VA",
+        "ADDRESS_Clean": "5878 Leesburg Pike, Bailey's Crossroads, VA",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1339778,
+          38.853396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1968",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Gaylord Indo-Pakistani Restaurant",
+        "CUISINE": "Indian (Punjab)",
+        "ADDRESS": "1731 Connecticut Avenue Northwest",
+        "ADDRESS_Clean": "1731 Connecticut Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0452812,
+          38.9135689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Germaine's",
+        "CUISINE": "Vietnamese",
+        "ADDRESS": "2400 Wisconsin Avenue Northwest",
+        "ADDRESS_Clean": "2400 Wisconsin Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0725941,
+          38.9211428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Golden Palace",
+        "CUISINE": "Chinese",
+        "ADDRESS": "720 Seventh Street Northwest",
+        "ADDRESS_Clean": "720 Seventh Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Nelson Lee",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0222169,
+          38.8992262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1940",
+        "OPEN (YEAR)": "1944",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Good Earth Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1609 K Street Northwest",
+        "ADDRESS_Clean": "1609 K Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Dick Gee Lam (1902-1993)",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0370881,
+          38.9028566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Gung Ho",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1406 G Street, NW",
+        "ADDRESS_Clean": "1406 G Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0323857,
+          38.8980936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2019",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Hanumanh",
+        "CUISINE": "Lao",
+        "ADDRESS": "1604 7th St NW, Washington, DC 20001",
+        "ADDRESS_Clean": "1604 7th St NW, Washington, DC 20001",
+        "": "",
+        "OWNER BIO": "Boby Pradachith",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0221606,
+          38.9113884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1980",
+        "OPEN (YEAR)": "1981",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Hunan Gourmet",
+        "CUISINE": "Chinese (Hunan)",
+        "ADDRESS": "726 Seventh Street Northwest",
+        "ADDRESS_Clean": "726 Seventh Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0222393,
+          38.899329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1966",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Japan Inn",
+        "CUISINE": "Japanese",
+        "ADDRESS": "1520 Connecticut Avenue Northwest",
+        "ADDRESS_Clean": "1520 Connecticut Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Kokei Yoshimoto",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0442934,
+          38.9105799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1966",
+        "CLOSE (YEAR)": "2005",
+        "RESTAURANT": "Japan Inn",
+        "CUISINE": "Japanese",
+        "ADDRESS": "1715 Wisconsin Ave NW, Washington, D.C",
+        "ADDRESS_Clean": "1715 Wisconsin Ave NW, Washington, D.C",
+        "": "",
+        "OWNER BIO": "Izumi Yoshimoto",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0666549,
+          38.9142546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1971",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Japan Inn",
+        "CUISINE": "Japanese",
+        "ADDRESS": "1715 Wisconsin Avenue Northwest",
+        "ADDRESS_Clean": "1715 Wisconsin Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Kokei Yoshimoto",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0727095,
+          38.9315315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Japanese Sakura Palace",
+        "CUISINE": "Japanese",
+        "ADDRESS": "7926 Georgia Ave., Silver Spring",
+        "ADDRESS_Clean": "7926 Georgia Ave., Silver Spring",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0270078,
+          38.9856491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1980",
+        "OPEN (YEAR)": "1980",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Katmandu",
+        "CUISINE": "Nepalese/Kashmiri",
+        "ADDRESS": "1800 Connecticut Avenue Northwest",
+        "ADDRESS_Clean": "1800 Connecticut Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046427,
+          38.914375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2014",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Kochix",
+        "CUISINE": "Korean",
+        "ADDRESS": "400 Florida Ave NW, Washington, DC 20001",
+        "ADDRESS_Clean": "400 Florida Ave NW, Washington, DC 20001",
+        "": "",
+        "OWNER BIO": "Young-jun Park/Karen Park",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0163573,
+          38.9137437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "?",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Kwangchow Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "600 G Street Northwest",
+        "ADDRESS_Clean": "600 G Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "John Hing Lau",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0198978,
+          38.8983152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Kwong Chau Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "135 B Street Southeast",
+        "ADDRESS_Clean": "135 B Street SE, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.929905,
+          38.8865959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "La Fregate",
+        "CUISINE": "Vietnamese",
+        "ADDRESS": "2020 Florida Avenue Northwest",
+        "ADDRESS_Clean": "2020 Florida Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0455961,
+          38.9145071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1880",
+        "OPEN (YEAR)": "1880",
+        "CLOSE (YEAR)": "1880s",
+        "RESTAURANT": "Little China",
+        "CUISINE": "Chinese",
+        "ADDRESS": "South of Penn Ave, 4th Street Northwest",
+        "ADDRESS_Clean": "South of Penn Ave, 4th Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0175341,
+          38.8920133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1920",
+        "OPEN (YEAR)": "1928",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Lotus Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "727 14th Street Northwest",
+        "ADDRESS_Clean": "727 14th Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Dick Gee Lam",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031616,
+          38.8991447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1973",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Maharaja",
+        "CUISINE": "Indian (New Delhi)",
+        "ADDRESS": "1639 Wisconsin Avenue Northwest",
+        "ADDRESS_Clean": "1639 Wisconsin Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Jagdish \"Jack\" Katyal",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0727095,
+          38.9315315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2000",
+        "OPEN (YEAR)": "2006",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Mandu",
+        "CUISINE": "Korean",
+        "ADDRESS": "453 K St NW, Washington, DC 20001",
+        "ADDRESS_Clean": "453 K St NW, Washington, DC 20001",
+        "": "",
+        "OWNER BIO": "Yesoon Lee/Danny Lee",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0178951,
+          38.9028193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1930",
+        "OPEN (YEAR)": "1935",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Mayfair Restaurant",
+        "CUISINE": "Chinese (?)",
+        "ADDRESS": "13th and F Street Northwest",
+        "ADDRESS_Clean": "13th and F Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0297102,
+          38.8973543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2000",
+        "OPEN (YEAR)": "2003",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Meiwah (Friendship Heights)",
+        "CUISINE": "Chinese",
+        "ADDRESS": "4457 Willard Ave, Chevy Chase, MD 20815",
+        "ADDRESS_Clean": "4457 Willard Ave, Chevy Chase, MD 20815",
+        "": "",
+        "OWNER BIO": "Larry La",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0881787,
+          38.9621455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2000",
+        "OPEN (YEAR)": "2000",
+        "CLOSE (YEAR)": "2019",
+        "RESTAURANT": "Meiwah (West End)",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1200 New Hampshire Ave., NW",
+        "ADDRESS_Clean": "1200 New Hampshire Ave., NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Larry La",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0477212,
+          38.9057476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1950",
+        "OPEN (YEAR)": "1957",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Moon Palace",
+        "CUISINE": "Chinese",
+        "ADDRESS": "3308 Wisconsin Avenue Northwest",
+        "ADDRESS_Clean": "3308 Wisconsin Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Sam Gin Wong (1918 - 1984)",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0724296,
+          38.9338528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1966",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Moon Place",
+        "CUISINE": "Chinese",
+        "ADDRESS": "3308 Wisconsin Ave., NW",
+        "ADDRESS_Clean": "3308 Wisconsin Ave., NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0727942,
+          38.9339144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Mun Fong Chinese & American Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1317 Rhode Island Avenue Northeast",
+        "ADDRESS_Clean": "1317 Rhode Island Avenue Northeast",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9863418,
+          38.923799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1940",
+        "OPEN (YEAR)": "1940",
+        "CLOSE (YEAR)": "late 1940s",
+        "RESTAURANT": "Nanking Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "2002 P Street NW",
+        "ADDRESS_Clean": "2002 P Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Robert Moy & Gayle Woo",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0452913,
+          38.9094481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1980",
+        "OPEN (YEAR)": "1986",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "New Heights",
+        "CUISINE": "New American",
+        "ADDRESS": "2317 Calvert Street Northwest",
+        "ADDRESS_Clean": "2317 Calvert Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Amarjeet \"Umbi\" Singh",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0521963,
+          38.9237246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2000",
+        "OPEN (YEAR)": "2009",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Padaek",
+        "CUISINE": "Thai/Lao",
+        "ADDRESS": "6395 Seven Corners Center, Falls Church, VA 22044",
+        "ADDRESS_Clean": "6395 Seven Corners Center, Falls Church, VA 22044",
+        "": "",
+        "OWNER BIO": "Seng Luangrath",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1491901,
+          38.8682754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1950",
+        "OPEN (YEAR)": "1955",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Peking Palace",
+        "CUISINE": "Chinese",
+        "ADDRESS": "3524 Connecticut Ave Northwest",
+        "ADDRESS_Clean": "3524 Connecticut Ave NW, Washington DC",
+        "": "",
+        "OWNER BIO": "S. Van Lung (1926 - 1991)",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0594595,
+          38.9364749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1940",
+        "OPEN (YEAR)": "1941",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Peking Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "5522 Connecticut Ave Northwest",
+        "ADDRESS_Clean": "5522 Connecticut Ave NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.075368,
+          38.963658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1970",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Peking Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "5522 Connecticut Ave., NW",
+        "ADDRESS_Clean": "5522 Connecticut Ave., NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.075368,
+          38.963658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Peking Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "711 13th Street, NW",
+        "ADDRESS_Clean": "711 13th Street, NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0293251,
+          38.8987981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1950",
+        "OPEN (YEAR)": "1957",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Peking Restaurant (downtown)",
+        "CUISINE": "Chinese",
+        "ADDRESS": "711 13th Street Northwest",
+        "ADDRESS_Clean": "711 13th Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0293251,
+          38.8987981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1900",
+        "OPEN (YEAR)": "1905",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Port Arthur Chinese Restaurant and Catering Company",
+        "CUISINE": "Chinese",
+        "ADDRESS": "515 Ninth Street Northwest",
+        "ADDRESS_Clean": "515 Ninth Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Ung Wah",
+        "TEXT": "",
+        "IMAGE": "Postcard",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0237976,
+          38.8967892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2015",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Purple Patch",
+        "CUISINE": "Filipino",
+        "ADDRESS": "3155 Mt Pleasant St NW, Washington, DC 20010",
+        "ADDRESS_Clean": "3155 Mt Pleasant St NW, Washington, DC 20010",
+        "": "",
+        "OWNER BIO": "Patrice Cleary",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0376686,
+          38.9305555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1940",
+        "OPEN (YEAR)": "1942",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Ruby Foo's",
+        "CUISINE": "Chinese",
+        "ADDRESS": "728 13th Street Northwest",
+        "ADDRESS_Clean": "728 13th Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Sam Gin Wong (1918 - 1984)",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0296963,
+          38.8987605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1974",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Saigon West",
+        "CUISINE": "Vietnamese",
+        "ADDRESS": "1509 Sixteenth Street Northwest",
+        "ADDRESS_Clean": "1509 Sixteenth Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0360494,
+          38.9099927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1990",
+        "OPEN (YEAR)": "1994",
+        "CLOSE (YEAR)": "2018",
+        "RESTAURANT": "Sakedokoro Makoto",
+        "CUISINE": "Japanese",
+        "ADDRESS": "4822 MacArthur Blvd NW, Washington, DC 20007",
+        "ADDRESS_Clean": "4822 MacArthur Blvd NW, Washington, DC 20007",
+        "": "",
+        "OWNER BIO": "Gene Itoh",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0963584,
+          38.9167266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Sakura Palace",
+        "CUISINE": "Japanese",
+        "ADDRESS": "7967 Georgia Avenue Silver Spring MD",
+        "ADDRESS_Clean": "7967 Georgia Avenue Silver Spring MD",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0263906,
+          38.9859091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2019",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Sen Khao",
+        "CUISINE": "Lao",
+        "ADDRESS": "2001 International Dr 3RD FLOOR, McLean, VA 22102",
+        "ADDRESS_Clean": "2001 International Dr 3RD FLOOR, McLean, VA 22102",
+        "": "",
+        "OWNER BIO": "Seng Luangrath",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2244611,
+          38.9232876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1970",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Shanghai Garden Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "4469 connecticut Ave, NW",
+        "ADDRESS_Clean": "4469 connecticut Ave, NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.064854,
+          38.947389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2014",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Simply Banh Mi",
+        "CUISINE": "Vietnamese",
+        "ADDRESS": "1624 Wisconsin Ave NW, Washington, DC 20007",
+        "ADDRESS_Clean": "1624 Wisconsin Ave NW, Washington, DC 20007",
+        "": "",
+        "OWNER BIO": "John Tran",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0657442,
+          38.9114539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1971",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Sorabol",
+        "CUISINE": "Korean",
+        "ADDRESS": "2300 Connecticut Avenue Northwest",
+        "ADDRESS_Clean": "2300 Connecticut Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Joseph P. Chang/Jung Doo Kim",
+        "TEXT": "",
+        "IMAGE": "NMAH",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0491952,
+          38.9187893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2017",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Succotash",
+        "CUISINE": "Southern (American)",
+        "ADDRESS": "915 F St NW, Washington, DC 20004",
+        "ADDRESS_Clean": "915 F St NW, Washington, DC 20004",
+        "": "",
+        "OWNER BIO": "Edward Lee (Culinary Director)",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02474,
+          38.897644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1970",
+        "CLOSE (YEAR)": "1970s",
+        "RESTAURANT": "Sushi Keiko",
+        "CUISINE": "Japanese",
+        "ADDRESS": "2309 Wisconsin Avenue Northwest",
+        "ADDRESS_Clean": "2309 Wisconsin Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Chef Daisuke Utagawa purchased Sushi-ko in 1988 and ran the restaurant until 2012 when he found himself facing IRS and DC liens upwards of $840,000 for unpaid business taxes.  Sushi-ko closed in 2013, presumably due to the financial troubles, yet chef Daisuke had opened a new Sushiko in Chevy Chase, Maryland in 2008 and has been running that restaurant ever since. Chef Wei Zhang and his wife Min took over the space in 2014, applied for a liquor license and opened Sushi Keiko, as rave reviews from customers followed. Mr. Zhang was president of the company named \"Washington DC Asian Food Corporation\" which owned Sushi Keiko. Early in 2018 Mr. Zhang encountered family problems and said he needed to return to his home country, so he sold the business to Ferry Huang who apparently took over as president of the corporation.",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.071375,
+          38.9206368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1977",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Szechuan",
+        "CUISINE": "Chinese (Sichuan)",
+        "ADDRESS": "615 I Street Northwest",
+        "ADDRESS_Clean": "615 I Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0209747,
+          38.9010654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Tai Tung",
+        "CUISINE": "Chinese",
+        "ADDRESS": "622 H Street Northwest",
+        "ADDRESS_Clean": "622 H Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Nelson Lee",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0211876,
+          38.8995155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1965",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Taj Mahal",
+        "CUISINE": "Indian (Punjab ?)",
+        "ADDRESS": "1327 Connecticut Avenue Northwest",
+        "ADDRESS_Clean": "1327 Connecticut Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Asha Mallick (German wife)",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0422239,
+          38.9080377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1969",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Taj Mahal",
+        "CUISINE": "Indian",
+        "ADDRESS": "1327 Connecticut Ave., NW",
+        "ADDRESS_Clean": "1327 Connecticut Ave. NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0422239,
+          38.9080377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1972",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Thai Room",
+        "CUISINE": "Thai",
+        "ADDRESS": "5037 Connecticut Avenue Northwest",
+        "ADDRESS_Clean": "5037 Connecticut Avenue NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0699713,
+          38.9559336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "The Californian Streak House",
+        "CUISINE": "?",
+        "ADDRESS": "831 14th Street Northwest",
+        "ADDRESS_Clean": "831 14th Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Quy Huy Nguyen",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0312843,
+          38.9010535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1960",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "The China Doll",
+        "CUISINE": "Chinese",
+        "ADDRESS": "627 H Street, NW",
+        "ADDRESS_Clean": "627 H Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Davis Lee and Tom-Lin Lee",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0212272,
+          38.9000778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1940",
+        "OPEN (YEAR)": "1945",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "The Dragon Restaurant",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1329 G Street Northwest",
+        "ADDRESS_Clean": "1329 G Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "Harry Wong",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0311535,
+          38.8986428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1968",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "The Empress",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1018 Vermont Ave., NW",
+        "ADDRESS_Clean": "1018 Vermont Ave. NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033609,
+          38.9032275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1977",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "The Japanese Steak House",
+        "CUISINE": "Japanese",
+        "ADDRESS": "1701 N. Fort Myer Drive VA",
+        "ADDRESS_Clean": "1701 N. Fort Myer Drive, VA",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0719255,
+          38.894342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "The Japanese Steak House",
+        "CUISINE": "Japanese",
+        "ADDRESS": "7845 Wisconsin Avenue",
+        "ADDRESS_Clean": "7845 Wisconsin Avenue, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0949823,
+          38.9893785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "The Japanese Steak House",
+        "CUISINE": "Japanese",
+        "ADDRESS": "Arlington, VA",
+        "ADDRESS_Clean": "Arlington, VA",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0909809,
+          38.8816208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1962",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "The Junkanoo",
+        "CUISINE": "Tiki",
+        "ADDRESS": "1629 Connecticut Ave Northwest",
+        "ADDRESS_Clean": "1629 Connecticut Ave NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0444154,
+          38.9121374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1980",
+        "OPEN (YEAR)": "1988",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "the Junkanoo",
+        "CUISINE": "Tiki",
+        "ADDRESS": "1629 Connecticut Ave., NW",
+        "ADDRESS_Clean": "1629 Connecticut Ave. NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0444154,
+          38.9121374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1960",
+        "OPEN (YEAR)": "1968",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "The Orient",
+        "CUISINE": "Chinese",
+        "ADDRESS": "1715 Wisconsin Ave., NW",
+        "ADDRESS_Clean": "1715 Wisconsin Ave. NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0666549,
+          38.9142546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "2010",
+        "OPEN (YEAR)": "2014",
+        "CLOSE (YEAR)": "-",
+        "RESTAURANT": "Thip Khao",
+        "CUISINE": "Lao",
+        "ADDRESS": "3462 14th St NW, Washington, DC 20010",
+        "ADDRESS_Clean": "3462 14th St NW, Washington, DC 20010",
+        "": "",
+        "OWNER BIO": "Seng Luangrath/Boby Pradachith",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0329865,
+          38.9329458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Viet Huong Café",
+        "CUISINE": "Vietnamese",
+        "ADDRESS": "2900 Block of M Street Northwest",
+        "ADDRESS_Clean": "2900 Block of M Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0582565,
+          38.9050552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "",
+        "OPEN (YEAR)": "",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Vietnam-Georgetown",
+        "CUISINE": "Vietnamese",
+        "ADDRESS": "2900 Block of M Street Northwest",
+        "ADDRESS_Clean": "2900 Block of M Street NW, Washington DC",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0582565,
+          38.9050552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1970",
+        "OPEN (YEAR)": "1970",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Woo Lae Oak",
+        "CUISINE": "Korean",
+        "ADDRESS": "8240 Leesburg Pike, Vienna, VA 22182",
+        "ADDRESS_Clean": "8240 Leesburg Pike, Vienna, VA 22182",
+        "": "",
+        "OWNER BIO": "",
+        "TEXT": "",
+        "IMAGE": "",
+        "AUDIO": "Danny's Interview",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2296929,
+          38.9183884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DECADES": "1950",
+        "OPEN (YEAR)": "1955",
+        "CLOSE (YEAR)": "",
+        "RESTAURANT": "Yenching Palace",
+        "CUISINE": "Chinese",
+        "ADDRESS": "3524 Connecticut Ave Northwest",
+        "ADDRESS_Clean": "3524 Connecticut Ave NW, Washington DC",
+        "": "",
+        "OWNER BIO": "S. Van Lung (1926 - 1991)",
+        "TEXT": "",
+        "IMAGE": "Menu/ash tray",
+        "AUDIO": "",
+        "VIDEO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0594595,
+          38.9364749
+        ]
+      }
+    }
+  ]
+}
